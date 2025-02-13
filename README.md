@@ -1,6 +1,6 @@
-# Portfolio Template
+# Portfolio 
 
-A customizable and modern portfolio template built using **Next.js**, **Tailwind CSS**, and **TypeScript**. This template is ideal for showcasing your personal projects, skills, and experiences in a professional way.
+A customizable and modern portfolio  built using **Next.js**, **Tailwind CSS**, and **TypeScript**. 
 
 ---
 
@@ -35,13 +35,8 @@ A customizable and modern portfolio template built using **Next.js**, **Tailwind
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/portfolio-template.git
-   cd portfolio-template
-
-2. **Install Dependencies**
+1. **Install Dependencies**
 - Make sure you have Node.js installed, then run:
 
   ```
@@ -50,7 +45,7 @@ A customizable and modern portfolio template built using **Next.js**, **Tailwind
   yarn install
   ```
   
-3. **Run Development Server**
+2. **Run Development Server**
 - Start the development server to view your portfolio locally:
 
   ```
@@ -84,16 +79,8 @@ A customizable and modern portfolio template built using **Next.js**, **Tailwind
 3. **Contribute**
 - Feel free to fork this template, make improvements, and submit pull requests.
 
-## 🛡️ License
-- This project is licensed under the MIT License. Feel free to use it for personal and commercial projects.
-
 ## 📧 Support
-- For any issues or suggestions, feel free to create a GitHub issue or reach out via email at youremail@example.com.
+- For any issues or suggestions, feel free to create a GitHub issue or reach out via email at mohdwajid1413@gmail.com.
 
-## 🌟 Acknowledgements
-- Special thanks to:
-  - Next.js
-  - Tailwind CSS
-  - TypeScript
 
 
